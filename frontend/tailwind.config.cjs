@@ -1,0 +1,1 @@
+module.exports={content:["./src/**/*.{svelte,ts}","./index.html"],theme:{extend:{}},plugins:[]};
